@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+  font: normal 16px 'Arial', 'helvetic', sans-serif;
+  background-image: linear-gradient(to right, #4C2F94, #663FC6);
+}
+
+h1{
+  color: white;
+  text-align:  center;
+}
+
+section{
+  background-color: white;
+  margin: auto;
+  padding: 10px;
+  border-radius: 8px;
+  width: 600px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.329);
+}
+
+div{
+  padding: 10px;
+}
+
+footer{
+  color: white;
+  text-align: center;
+  padding: 12px;
+}
